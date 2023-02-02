@@ -1,19 +1,23 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Charlotte Urbanists' Tenets
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+## Our Mission
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+The Charlotte Urbanists Mission is to fight for Charlotte to be a better city by advocating for sustainable, sensible, and equitable urban practices and policies.
+*****
+## Our Vision
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+The Charlotte Urbanists Vision is for Charlotte to be a thriving city with a wealth of transportation options, zero pedestrian fatalities, and affordable housing for all members of the community.
+*****
+## Our Values
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Accessibility
+Charlotte Urbanists believe that great cities are cities where people can meet their daily needs via walking or cycling in a safe and pleasant manner.
+### Transportation Wealth
+Charlotte Urbanists believe that great cities have transit that is prioritized over private motor vehicles, is pleasant to use, and have reliable, frequent service.
+### Public Spaces
+Charlotte Urbanists believe that great cities are rich in public spaces and pathways where every citizen is allowed to dwell and inhabit without expectation of payment.
+### Affordable Housing
+Charlotte Urbanists believe that removing barriers for dense, multi-family housing is an essential element in the path to providing Charlotteans with affordable, flexible housing through both private and public methods.
