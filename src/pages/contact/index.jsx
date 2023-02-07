@@ -83,7 +83,7 @@ export default class Index extends React.Component {
                       name={"email"}
                       onChange={this.handleChange}
                       id={"email"}
-                      autoComplete={"name"}
+                      autoComplete={"email"}
                       required={true}
                       enterkeyhint={"next"}
                     />
@@ -100,7 +100,7 @@ export default class Index extends React.Component {
                       onChange={this.handleChange}
                       id={"message"}
                       required={true}
-                      enterkeyhint={"send"}
+                      enterkeyhint={"enter"}
                     />
                   </div>
                 </div>
