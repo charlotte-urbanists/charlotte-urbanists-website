@@ -69,6 +69,7 @@ export default class Index extends React.Component {
                       id={"name"}
                       required={true}
                       autoComplete={"name"}
+                      enterkeyhint={"next"}
                     />
                   </div>
                 </div>
