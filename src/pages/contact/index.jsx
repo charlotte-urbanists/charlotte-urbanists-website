@@ -39,7 +39,7 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
+              <h1>Interested in what we do? Get in touch</h1>
               <form
                 name="contact"
                 method="post"
@@ -68,6 +68,7 @@ export default class Index extends React.Component {
                       onChange={this.handleChange}
                       id={"name"}
                       required={true}
+                      autoComplete={"name"}
                     />
                   </div>
                 </div>
@@ -82,7 +83,9 @@ export default class Index extends React.Component {
                       name={"email"}
                       onChange={this.handleChange}
                       id={"email"}
+                      autoComplete={"name"}
                       required={true}
+                      enterkeyhint={"next"}
                     />
                   </div>
                 </div>
@@ -97,6 +100,7 @@ export default class Index extends React.Component {
                       onChange={this.handleChange}
                       id={"message"}
                       required={true}
+                      enterkeyhint={"send"}
                     />
                   </div>
                 </div>
