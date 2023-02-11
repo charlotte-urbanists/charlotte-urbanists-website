@@ -5,7 +5,7 @@ title: Charlotte Urbanists' Tenets
 ---
 ## Our Mission
 
-The Charlotte Urbanists Mission is to fight for Charlotte to be a better city by advocating for sustainable, sensible, and equitable urban practices and policies.
+The Charlotte Urbanists' Mission is to fight for Charlotte to be a better city by advocating for sustainable, sensible, and equitable urban practices and policies.
 *****
 ## Our Vision
 
